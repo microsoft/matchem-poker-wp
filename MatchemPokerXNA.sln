@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchemPokerXNA", "MatchemPokerXNA\MatchemPokerXNA\MatchemPokerXNA.csproj", "{E9C7FA48-F896-4C42-837C-7D160A5A109B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchemPokerXNAContent", "MatchemPokerXNA\MatchemPokerXNAContent\MatchemPokerXNAContent.contentproj", "{595C7D73-8806-4908-B1B0-B1231A04946F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C7FA48-F896-4C42-837C-7D160A5A109B}.Debug|Windows Phone.ActiveCfg = Release|Windows Phone
+		{E9C7FA48-F896-4C42-837C-7D160A5A109B}.Debug|Windows Phone.Build.0 = Release|Windows Phone
+		{E9C7FA48-F896-4C42-837C-7D160A5A109B}.Debug|Windows Phone.Deploy.0 = Release|Windows Phone
+		{E9C7FA48-F896-4C42-837C-7D160A5A109B}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{E9C7FA48-F896-4C42-837C-7D160A5A109B}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{E9C7FA48-F896-4C42-837C-7D160A5A109B}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{595C7D73-8806-4908-B1B0-B1231A04946F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{595C7D73-8806-4908-B1B0-B1231A04946F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

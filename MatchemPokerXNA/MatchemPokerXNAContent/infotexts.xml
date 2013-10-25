@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.String[]" Name="test">
+    <Item>Matchem Poker XNA</Item>
+    <Item>A Nokia example</Item>
+    <Item> </Item>
+    <Item>Ported from Qt</Item>
+    <Item>version:</Item>
+    <Item>projects.developer.</Item>
+    <Item>nokia.com</Item>
+    <Item>/matchempoker</Item>
+    <Item> </Item>
+    <Item>Simply switch cards</Item>
+    <Item>with eachother to</Item>
+    <Item>create poker hands.</Item>
+    <Item> </Item>
+    <Item>Audio samples from</Item>
+    <Item>FREESOUND.ORG used.</Item>
+    <Item>Thanks to:</Item>
+    <Item>milton, mattwasser,</Item>
+    <Item>Christianjinnyzoe</Item>
+  </Asset>
+</XnaContent>
