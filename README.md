@@ -1,13 +1,16 @@
 Match'em Poker XNA 1.1
 ======================
 
-Match'em Poker is a traditional match3-type game with a twist: Instead of 
+Match'em Poker is a traditional match3 type of game with a twist: Instead of 
 matching blocks of the same colour, the player is matching different poker 
 hands. The game is a port from the Qt version which, in turn, is a port from 
 the original iOS version. 
 
 When porting, the intent was to do so with minimal effort, reusing everything 
-possible. The code is NOT originally written with C# nor for WP7. 
+possible. The code is NOT originally written with C# nor for WP7.
+
+For more information, see the wiki:
+https://github.com/nokia-developer/matchem-poker-wp/wiki
 
 
 PLAYING MATCH'EM POKER
