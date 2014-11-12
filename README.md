@@ -6,11 +6,14 @@ matching blocks of the same colour, the player is matching different poker
 hands. The game is a port from the Qt version which, in turn, is a port from 
 the original iOS version. 
 
+![Start view](/doc/screenshots/mp_start_view_1_small.png?raw=true)&nbsp;
+![Playing](/doc/screenshots/mp_playing_small.png?raw=true)
+
 When porting, the intent was to do so with minimal effort, reusing everything 
 possible. The code is NOT originally written with C# nor for WP7.
 
 For more information, see the wiki:
-https://github.com/nokia-developer/matchem-poker-wp/wiki
+https://github.com/Microsoft/matchem-poker-wp/wiki
 
 
 PLAYING MATCH'EM POKER
@@ -93,8 +96,7 @@ None.
 BUILD & INSTALLATION INSTRUCTIONS
 -------------------------------------------------------------------------------
 
-Preparations
-~~~~~~~~~~~~
+**Preparations**
 
 Make sure you have the following installed:
  * Windows 7, may also work on Windows XP
@@ -105,8 +107,7 @@ Make sure you have the following installed:
    http://download.microsoft.com/download/6/D/6/6D66958D-891B-4C0E-BC32-2DFC41917B11/VS10-KB2486994-x86.exe
 
 
-Build on Microsoft Visual Studio
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Build on Microsoft Visual Studio**
 
 1. Open the SLN file:
    File > Open Project, select the file XNAPuzzlePoker.sln.
@@ -114,8 +115,7 @@ Build on Microsoft Visual Studio
 3. Press F5 to build the project and run it on the Windows Phone Emulator.
 
 
-Deploy to Windows Phone 7
-~~~~~~~~~~~~~~~~~~~~~~~~~
+**Deploy to Windows Phone 7**
 
 Preparations:
 1. Register in the App Hub to get a Windows Live ID:
@@ -140,7 +140,8 @@ COMPATIBILITY
 - Windows Phone 7
 - XNA Game Studio 4.0
 
-Tested on: 
+Tested on:
+- Nokia Lumia 800
 - HTC 7 Mozart
 - Samsung Omnia 7
 
