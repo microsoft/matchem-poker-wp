@@ -2,13 +2,13 @@
 <XnaContent>
   <Asset Type="System.String[]" Name="test">
     <Item>Matchem Poker XNA</Item>
-    <Item>A Nokia example</Item>
+    <Item>A game example</Item>
     <Item> </Item>
     <Item>Ported from Qt</Item>
-    <Item>version:</Item>
-    <Item>projects.developer.</Item>
-    <Item>nokia.com</Item>
-    <Item>/matchempoker</Item>
+    <Item>version. See</Item>
+    <Item>github.com/</Item>
+    <Item>Microsoft/</Item>
+    <Item>matchem-poker-wp</Item>
     <Item> </Item>
     <Item>Simply switch cards</Item>
     <Item>with eachother to</Item>
