@@ -152,6 +152,6 @@ Developed with:
 CHANGE HISTORY
 -------------------------------------------------------------------------------
 
-1.1 Code style and convention fixes
-1.0 The first non-beta version
-0.9 Release candidate 1
+* 1.1 Code style and convention fixes
+* 1.0 The first non-beta version
+* 0.9 Release candidate 1
